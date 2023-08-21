@@ -5,7 +5,8 @@
 Purely experimental code at this stage.
 
 Sorry about the name - this im my testing version V7.
-LVGL 8.3.9
+
+Using LVGL 8.3.9
 
 This is a real world example running on a SUNTON ESP32-8048S043
 
